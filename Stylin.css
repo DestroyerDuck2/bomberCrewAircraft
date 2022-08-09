@@ -1,0 +1,56 @@
+body {
+    background-color: steelblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+header {
+    background-color: slategrey;
+}
+.navigation {
+    background-color: lightslategray;
+    text-align: center;
+}
+.navigation a {
+    color: skyblue;
+    text-decoration: none;
+}
+.banner {
+    height: 200px;
+    background-color: lightgrey;
+    text-color: black;
+}
+.bomberDiagram {
+    width: 896px
+}
+footer {
+    background-color: olivedrab;
+}
+table {
+    background-color: slategray;
+    /*solid | double | dotted | dashed */
+    border-style: solid;
+    border-color: slategray;
+    border-collapse: collapse;
+    margin: auto;
+}
+th {
+    color: white;
+    background-color: darkgreen;
+}
+td {
+    border-style: solid;
+    padding: 5px;
+    border-color: slategray;
+}
+.topCamo {
+    color: white;
+    background-color: darkgreen;
+}
+.bottomCamo {
+    color: white;
+    background-color: black;
+}
