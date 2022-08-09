@@ -21,7 +21,7 @@ header {
 .banner {
     height: 200px;
     background-color: lightgrey;
-    text-color: black;
+    color: black;
 }
 .bomberDiagram {
     width: 896px
@@ -53,4 +53,7 @@ td {
 .bottomCamo {
     color: white;
     background-color: black;
+}
+.bomberPicture {
+    width: 896px;
 }
