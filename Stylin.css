@@ -17,6 +17,7 @@ header {
 .navigation a {
     color: skyblue;
     text-decoration: none;
+    padding: 1em;
 }
 .banner {
     height: 200px;
@@ -24,7 +25,7 @@ header {
     color: black;
 }
 .bomberDiagram {
-    width: 896px
+    width: 50em
 }
 footer {
     background-color: olivedrab;
